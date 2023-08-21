@@ -14,6 +14,13 @@ nullopt_t : if optional object does not contains a value.
 UseCase: 
 A common use case for optional is the return value of a function that may fail. 
 */
+
+//final msg 1
+//final msg 22313
+//final msg 3123
+//final msg 4
+//final msg 5
+
 auto fn1(bool b)
 {
     if(b == true)
